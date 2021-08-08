@@ -62,3 +62,13 @@ nav ul li:hover {
 .icons i{
     margin: 10px;
 }
+
+.setting{
+  display: inline;
+  float: right;
+  margin: 10px;
+}
+
+.main{
+  margin-top: 64px;
+}
